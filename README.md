@@ -1,4 +1,4 @@
-Creating first online CV Project 1 Worked on it for 2 weeks (10 Day) 
+Creating first online CV Project 1 Worked on it for 2 weeks (10 Days) 
 
 1.Html
 2.CSS
