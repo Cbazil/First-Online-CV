@@ -20,3 +20,6 @@
 
 ### Live Link
 To view live click on link:  https://cbazil.github.io/First-Online-CV/index.html
+
+### CV update
+To view latest CV with improvements and updates click link: https://github.com/Cbazil/Online-CV
